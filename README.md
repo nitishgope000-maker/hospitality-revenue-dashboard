@@ -3,7 +3,7 @@ This project is a Power BI dashboard analyzing hotel performance metrics includi
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard preview.png)
 
 ## Key Metrics Analyzed
 - Revenue
