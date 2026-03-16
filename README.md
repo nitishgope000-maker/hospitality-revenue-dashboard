@@ -1,5 +1,4 @@
 # Hospitality Revenue Insights Dashboard
-
 This project is a Power BI dashboard analyzing hotel performance metrics including revenue, occupancy, RevPAR, ADR, and booking platform performance.
 
 ## Key Metrics Analyzed
